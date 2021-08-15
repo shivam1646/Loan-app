@@ -1,0 +1,30 @@
+.aspire-logo {
+  width: 7.8rem;
+}
+
+.text-primary {
+  color: $brand-primary !important;
+}
+
+.aspire-app__bar {
+  background-color: $brand-secondary !important;
+  visibility: hidden;
+}
+
+.heading-content {
+  width: -webkit-fill-available;
+}
+
+.aspire-bottom__navigation {
+  display: none !important;
+}
+
+@media only screen and (max-width: 1263px) {
+  .aspire-app__bar {
+    visibility: visible;
+  }
+
+  .aspire-bottom__navigation {
+    display: inherit !important;
+  }
+}

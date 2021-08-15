@@ -1,0 +1,9 @@
+@import '~vuetify/src/styles/styles.sass';
+
+$brand-primary: #01d167;
+$brand-secondary: #0c365a;
+
+$material-light: map-deep-merge($material-light, (
+  'navigation-drawer': $brand-secondary,
+));
+
