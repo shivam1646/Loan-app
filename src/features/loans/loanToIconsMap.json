@@ -1,0 +1,22 @@
+{
+  "personal": { 
+    "icon": "mdi-account-alert-outline",
+    "color": "blue'",
+    "text": "Personal loan"
+  },
+  "home": { 
+    "icon": "mdi-home-city-outline",
+    "color": "teal",
+    "text": "Home loan"
+  },
+  "education": { 
+    "icon": "mdi-school-outline",
+    "color": "pink",
+    "text": "Education loan"
+  },
+  "auto": { 
+    "icon": "mdi-car-2-plus",
+    "color": "lime",
+    "text": "Auto loan"
+  }
+}
