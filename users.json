@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c77f612b-ad07-4aa0-97bc-bcfd43f0c1f0",
+    "name": "Mark Henry",
+    "email": "markhenry@gmail.com",
+    "password": "$2a$12$8e0ekTqeN61gpK4KSgVa5eM32V1D.sMGDRmziqJ11OSEljivsF3Ra",
+    "isAdmin": 0
+  },
+  {
+    "id": "34e727a1-be32-48a9-aabb-8212d0dda219",
+    "name": "Johnny Bravo",
+    "email": "johnnybravo@aspire.com",
+    "password": "$2a$12$S/jvKgkodDHd7wXhRSjCLuNrH8nNk2zwACKH/b2ANymZdnskhAiii",
+    "isAdmin": 1
+  }
+]
