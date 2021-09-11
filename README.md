@@ -1,4 +1,4 @@
-# Mini Aspire Loan App
+# Loan App
 
 ## Build Setup
 
